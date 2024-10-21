@@ -99,7 +99,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
 - **GitHub**: [Mohit722](https://github.com/Mohit722)
-- **Email**: [chitrali@digitalsukoon.com](mailto:chitrali@digitalsukoon.com)
 
 ---
 
